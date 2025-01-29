@@ -4,3 +4,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/ChiamakaUI/solana-starter
+[submodule "vault-program"]
+	path = vault-program
+	url = https://github.com/ChiamakaUI/vault-program
