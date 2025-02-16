@@ -7,3 +7,6 @@
 [submodule "vault-program"]
 	path = vault-program
 	url = https://github.com/ChiamakaUI/vault-program
+[submodule "escrow-program"]
+	path = escrow-program
+	url = https://github.com/ChiamakaUI/turbin3-escrow
