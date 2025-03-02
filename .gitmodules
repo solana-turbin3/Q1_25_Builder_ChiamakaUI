@@ -10,3 +10,6 @@
 [submodule "escrow-program"]
 	path = escrow-program
 	url = https://github.com/ChiamakaUI/turbin3-escrow
+[submodule "capstone"]
+	path = capstone
+	url = https://github.com/ChiamakaUI/streamlink-escrow
