@@ -13,3 +13,6 @@
 [submodule "capstone"]
 	path = capstone
 	url = https://github.com/ChiamakaUI/streamlink-escrow
+[submodule "marketplace"]
+	path = marketplace
+	url = https://github.com/ChiamakaUI/nft-marketplace
