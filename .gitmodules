@@ -16,3 +16,6 @@
 [submodule "marketplace"]
 	path = marketplace
 	url = https://github.com/ChiamakaUI/nft-marketplace
+[submodule "ts-prereq"]
+	path = ts-prereq
+	url = https://github.com/ChiamakaUI/risein-assignment
