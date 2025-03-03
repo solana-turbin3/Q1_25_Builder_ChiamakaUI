@@ -25,3 +25,6 @@
 [submodule "staking"]
 	path = staking
 	url = https://github.com/ChiamakaUI/staking
+[submodule "dice"]
+	path = dice
+	url = https://github.com/ChiamakaUI/turbin3-dice
