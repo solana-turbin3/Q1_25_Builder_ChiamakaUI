@@ -22,3 +22,6 @@
 [submodule "amm-program"]
 	path = amm-program
 	url = https://github.com/ChiamakaUI/amm-program
+[submodule "staking"]
+	path = staking
+	url = https://github.com/ChiamakaUI/staking
