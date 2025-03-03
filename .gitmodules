@@ -19,3 +19,6 @@
 [submodule "ts-prereq"]
 	path = ts-prereq
 	url = https://github.com/ChiamakaUI/risein-assignment
+[submodule "amm-program"]
+	path = amm-program
+	url = https://github.com/ChiamakaUI/amm-program
