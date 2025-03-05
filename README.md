@@ -2,7 +2,6 @@
 This repository contains coursework for the Solana Turbin3 builder's cohort. The projects and exercises in this repo focus on Solana smart contract development using Anchor.
 
 ## Table of Contents
-* airdrop: Contain typescript code written and edited for the pre-requisite task
 * amm-program: Contains Anchor program for an Automated Market Maker Smart Contract
 * dice: Contains Anchor program for a Dice Game
 * escrow-program: Contains Anchor program for an Escrow Smart Contract
